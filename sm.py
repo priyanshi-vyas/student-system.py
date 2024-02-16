@@ -347,4 +347,4 @@ style.configure('Treeview.Heading',font=('arial', 14, 'bold'),foreground='maroon
 studentTable.config(show='headings')
 
 root.mainloop()
-
+print("he")
